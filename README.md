@@ -7,7 +7,8 @@ In G-HUB select the profile you want to use these gestures in. Click on "scripti
 ## How to use:
 You perform the gestures by pressing the designated button, moving the mouse in the direction of the funtion that you want to use and then releasing the button.
 
-## Gestures for button 4:
+(Flipped buttons 4 and 5 from original branch)
+## Gestures for button 5:
 Direction | Function  | Buttons | Default
 ---- | ------- | ----------- | -------
 Up | Mission Control | Control+Up-Arrow | Enabled
@@ -15,7 +16,7 @@ Down | Application Windows | Control+Down-Arrow | Enabled
 Left | Move right a Space | Control+Right-Arrow | Enabled
 Right | Move left a Space | Control+Left-Arrow | Enabled
 
-## Gestures for button 5:
+## Gestures for button 4:
 Direction | Function  | Buttons | Default
 ---- | ------- | ----------- | -------
 Up | none | n/a | n/a
