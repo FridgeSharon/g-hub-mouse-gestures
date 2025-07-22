@@ -24,10 +24,10 @@ The default settings below will be for the navigation gestures for in browsers
 
  
 -- The button your gestures are mapped to G1 = 1, G2 = 2 etc..
-gestureButtonNumber = 4;
+gestureButtonNumber = 5;
 
 -- The button navigation actions are mapped to G1 = 1, G2 = 2 etc..
-navigationButtonNumber = 5;
+navigationButtonNumber = 4;
 
 -- The minimal horizontal/vertical distance your mouse needs to be moved for the gesture to recognize in pixels
 minimalHorizontalMovement = 200;
